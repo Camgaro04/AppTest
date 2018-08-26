@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServiInformacion</string>
+    <string-array name="methods">
+        <item>GET</item>
+        <item>POST</item>
+        <item>PUT</item>
+        <item>DELETE</item>
+    </string-array>
+    <string name="api_key" templateMergeStrategy="preserve"
+        translatable="false">AIzaSyBsVp-atArtBoupLeUPR8X-0sD_Pi7BSmo</string>
+</resources>
